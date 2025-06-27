@@ -1,7 +1,7 @@
 
 # 🎬 Movie Recommender System
 
-A smart, content-based movie recommendation web app built with **Streamlit**, **Pandas**, and **Scikit-learn**, powered by the **TMDB API** to fetch real-time movie posters. Just pick your favorite movie and instantly discover 12 similar ones!
+This project is a movie recommendation system built with Streamlit and powered by a machine learning model. It recommends movies based on a selected title using cosine similarity and displays movie posters fetched from the TMDB API.
 
 ---
 
