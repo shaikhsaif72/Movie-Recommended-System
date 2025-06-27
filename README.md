@@ -1,23 +1,13 @@
-
+![image](https://github.com/user-attachments/assets/06c3d8ca-24f2-4a4d-9eb5-46e804ec903f)
 # 🎬 Movie Recommender System
 
 This project is a movie recommendation system built with Streamlit and powered by a machine learning model. It recommends movies based on a selected title using cosine similarity and displays movie posters fetched from the TMDB API.
 
----
 
-## 🚀 Live Demo
+**Overview**
+The movie recommendation system helps users discover movies similar to their favorites. By selecting a movie from the list, users receive a list of top 10 recommended movies along with their posters. This project leverages machine learning techniques to analyze the features of movies and find similarities between them. It uses the TMDB API to fetch and display movie posters, enhancing the user experience by providing visual context for the recommendations. The system is built with Streamlit, providing an interactive and user-friendly interface for users to explore movie recommendations easily.
 
-📌 Coming soon — deploy on **Streamlit Cloud**, **Render**, or **Vercel** for public access.
 
----
-
-## 📷 Preview
-
-<p align="center">
-  <img src="https://via.placeholder.com/900x500?text=App+Screenshot" alt="App Screenshot">
-</p>
-
----
 
 ## 💡 Features
 
@@ -101,6 +91,14 @@ pip freeze > requirements.txt
 
 ---
 
+Results
+The system provides the top 10 recommended movies for any selected movie title. It also fetches and displays the posters of these recommended movies using the TMDB API.
+
+
+
+![image](https://github.com/user-attachments/assets/2939d9e2-ddb7-4953-bc7c-17a416da992f)
+
+
 ## 🔄 Future Improvements
 
 - ✅ Add genre/tag-based filtering  
@@ -109,14 +107,7 @@ pip freeze > requirements.txt
 - ✅ Deploy to public URL using Streamlit Cloud or Render  
 - ✅ Cache API responses for faster UX
 
----
 
-## 🙋‍♂️ Author
-
-**Shaikh Saif**  
-💼 [LinkedIn](https://www.linkedin.com/) | 💻 [GitHub](https://github.com/)
-
----
 
 ## 📄 License
 
