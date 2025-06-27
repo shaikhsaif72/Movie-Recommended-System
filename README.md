@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/06c3d8ca-24f2-4a4d-9eb5-46e804ec903f)
 # 🎬 Movie Recommender System
 
 This project is a movie recommendation system built with Streamlit and powered by a machine learning model. It recommends movies based on a selected title using cosine similarity and displays movie posters fetched from the TMDB API.
@@ -91,7 +90,8 @@ pip freeze > requirements.txt
 
 ---
 
-Results
+**Results**
+
 The system provides the top 10 recommended movies for any selected movie title. It also fetches and displays the posters of these recommended movies using the TMDB API.
 
 
